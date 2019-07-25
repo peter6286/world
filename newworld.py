@@ -1,3 +1,5 @@
 print("london")
 print("south africa")
 print("egypt")
+print("nigeria")
+print("morocco")
