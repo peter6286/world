@@ -1,8 +1,10 @@
 print("london is the world ")
+#Africa
 print("south africa")
 print("egypt")
 print("nigeria")
 print("morocco")
+#America
 print("united states")
 print("argentina")
 print("cuba")
