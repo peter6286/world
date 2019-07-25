@@ -8,3 +8,17 @@ print("argentina")
 print("cuba")
 print("mexico")
 print("cannada")
+#Asia
+print("china")
+print("japan")
+print("korea")
+print("thailand")
+print("saudi")
+print("iran")
+#europe
+print("uk")
+print("germany")
+print("france")
+print("Russia")
+print("swiss")
+
